@@ -1,4 +1,4 @@
-# To-Do-List
+# To Do List
 A basic to do list application that runs in the terminal. You can add, remove, edit, and mark items as finished. The items will be stored in a json file. The output will be tabulated for ease of use.
 
 ## Usage:
